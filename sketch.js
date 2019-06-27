@@ -49,7 +49,5 @@ function draw() {
 }
 
 function keyReleased() {
-  if (key == 's' || key == 'S') {
     noLoop();
-  }
 }
